@@ -1,5 +1,15 @@
 ## University of New South Wales Beamer Theme
 
+_This is a forked version of [lsy3/beamer-unsw-theme](https://github.com/lsy3/beamer-unsw-theme) featuring:_
+- _Roboto font (as per UNSW 2020 Brand Guidelines)_
+- _Vector logos_
+- _Padding on the page number_
+
+_The original author's README is below._
+
+---
+
+
 A Latex beamer theme for [University of New South Wales](https://www.unsw.edu.au/).
 Design was based on the [Saarland beamer template](https://github.com/kailashbuki/beamerthemesaarland) and the guidelines listed in the [UNSW Visual Guide](https://www.brand.unsw.edu.au/download/).
 
